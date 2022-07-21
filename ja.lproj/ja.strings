@@ -1,0 +1,27 @@
+"PERM_CONTACTS_TITLE" = "Roamerが連絡先にアクセスできるようにする";
+"CURRENCY_MDL" = "モルドバ・レウ";
+"COMMAND_COPIED" = "コピー";
+"TUTORIAL_ACTION_BUTTON_1" = "Ok！";
+"ENTER_CODE_TITLE" = "コードを入力する";
+"CURRENCY_USD" = "米ドル";
+"ERROR_100_MESSAGE" = "サーバーと時刻を同期できませんでした。";
+"ERROR_1021_MESSAGE" = "無効なクライアント。";
+"MENU_CABINET" = "アカウント";
+"DR_FAQ" = "よくある質問";
+"ERROR_1013_MESSAGE" = "転送をキャンセルするか、ローカルSIMカードを挿入して電話をかけます。";
+"PAYMENT_RECEIVED_TITLE" = "ありがとう！";
+"INS_LOCATION_SERVICES_TITLE" = "位置情報サービスを有効にします";
+"NO_CAMERA_ACCESS_TITLE" = "カメラにアクセスできません。どうすればスキャンできますか？";
+"ERROR_1_TITLE" = "ユーザーが見つかりません";
+"DR_TUTORIAL_RECEIVE_CALLS" = "現在、Wi-Fi経由で通話を受信しており、ローミング料金を回避しています。";
+"ALL" = "全て";
+"ERROR_1050_TITLE" = "注意！";
+"INS_OPEN_SETTINGS" = "iPhoneの設定を開きます。";
+"DIALER_SUGGEST_TYPE_MESSAGE" = "Roamerで定期的に電話をかけることをお勧めします";
+"DR_TUTORIAL_MAKE_CALLS" = "Roamerを使用して、通常の番号から国際電話をかけます。 \
+\
+信頼性のために定期的な通話を選択し、最低料金でインターネット通話を選択します。";
+"ERROR_23_TITLE" = "支払いの問題";
+"ERROR_25_MESSAGE" = "お支払いを確認できませんでした。 support@roamerapp.comに連絡してください";
+"CALL_TRANSFERING" = "転送";
+"test-key" = "テストワード";
