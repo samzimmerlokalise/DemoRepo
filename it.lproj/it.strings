@@ -1,0 +1,27 @@
+"PERM_CONTACTS_TITLE" = "";
+"CURRENCY_MDL" = "";
+"COMMAND_COPIED" = "";
+"TUTORIAL_ACTION_BUTTON_1" = "";
+"ENTER_CODE_TITLE" = "";
+"CURRENCY_USD" = "";
+"ERROR_100_MESSAGE" = "";
+"ERROR_1021_MESSAGE" = "";
+"MENU_CABINET" = "Account";
+"DR_FAQ" = "";
+"ERROR_1013_MESSAGE" = "Annulla l'inoltro o inserisci la scheda SIM locale per effettuare chiamate.";
+"PAYMENT_RECEIVED_TITLE" = "Grazie!";
+"INS_LOCATION_SERVICES_TITLE" = "Abilita i servizi di localizzazione";
+"NO_CAMERA_ACCESS_TITLE" = "Nessun accesso alla fotocamera. Come possiamo scansionare?";
+"ERROR_1_TITLE" = "Utente non trovato";
+"DR_TUTORIAL_RECEIVE_CALLS" = "Attualmente stai ricevendo chiamate tramite Wi-Fi ed eviti i costi di roaming.";
+"ALL" = "Tutti";
+"ERROR_1050_TITLE" = "Attenzione!";
+"INS_OPEN_SETTINGS" = "Apri Impostazioni iPhone.";
+"DIALER_SUGGEST_TYPE_MESSAGE" = "Ti consigliamo di effettuare una chiamata regolare in Roamer";
+"DR_TUTORIAL_MAKE_CALLS" = "Usa Roamer per effettuare chiamate internazionali dal tuo numero normale. \
+\
+ Seleziona le chiamate regolari per l'affidabilità e le chiamate Internet per le tariffe più basse.";
+"ERROR_23_TITLE" = "Problema di pagamento";
+"ERROR_25_MESSAGE" = "Non siamo riusciti a convalidare il tuo pagamento. Contatta support@roamerapp.com";
+"CALL_TRANSFERING" = "trasferire";
+"test-key" = "parole di prova";
