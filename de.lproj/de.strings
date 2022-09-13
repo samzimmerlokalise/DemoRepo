@@ -1,0 +1,27 @@
+"PERM_CONTACTS_TITLE" = "Roamer Zugriff auf Kontakte gewähren";
+"CURRENCY_MDL" = "Moldauischer Leu";
+"COMMAND_COPIED" = "Kopiert";
+"TUTORIAL_ACTION_BUTTON_1" = "OK!";
+"ENTER_CODE_TITLE" = "Code eingeben";
+"CURRENCY_USD" = "US Dollar";
+"ERROR_100_MESSAGE" = "Uhrzeit konnte nicht mit unserem Server synchronisiert werden.";
+"ERROR_1021_MESSAGE" = "Ungültiger Kunde.";
+"MENU_CABINET" = "Konto";
+"DR_FAQ" = "FAQ";
+"ERROR_1013_MESSAGE" = "Umleitung abbrechen oder lokale SIM-Karte einlegen, um Anrufe zu tätigen.";
+"PAYMENT_RECEIVED_TITLE" = "Vielen Dank!";
+"INS_LOCATION_SERVICES_TITLE" = "Standortdienste aktivieren";
+"NO_CAMERA_ACCESS_TITLE" = "Kein Zugriff auf die Kamera. Wie können wir scannen?";
+"ERROR_1_TITLE" = "Benutzer wurde nicht gefunden";
+"DR_TUTORIAL_RECEIVE_CALLS" = "Sie erhalten derzeit Anrufe über WLAN und vermeiden Roaming-Gebühren.";
+"ALL" = "Alles";
+"ERROR_1050_TITLE" = "Beachtung!";
+"INS_OPEN_SETTINGS" = "Öffnen Sie die iPhone-Einstellungen.";
+"DIALER_SUGGEST_TYPE_MESSAGE" = "Wir empfehlen Ihnen, regelmäßig in Roamer anzurufen";
+"DR_TUTORIAL_MAKE_CALLS" = "Verwenden Sie Roamer, um internationale Anrufe von Ihrer regulären Nummer zu tätigen. \
+\
+ Wählen Sie regelmäßige Anrufe für Zuverlässigkeit und Internetanrufe für die niedrigsten Tarife.";
+"ERROR_23_TITLE" = "Zahlungsproblem";
+"ERROR_25_MESSAGE" = "Wir konnten Ihre Zahlung nicht validieren. Wenden Sie sich an support@roamerapp.com";
+"CALL_TRANSFERING" = "übertragen";
+"test-key" = "Wörter testen";

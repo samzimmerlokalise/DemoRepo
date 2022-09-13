@@ -1,0 +1,27 @@
+"PERM_CONTACTS_TITLE" = "السماح لـ Roamer بالوصول إلى جهات الاتصال";
+"CURRENCY_MDL" = "ليو مولدوفا";
+"COMMAND_COPIED" = "نسخ";
+"TUTORIAL_ACTION_BUTTON_1" = "موافق!";
+"ENTER_CODE_TITLE" = "ادخل الرمز";
+"CURRENCY_USD" = "الدولار الأمريكي";
+"ERROR_100_MESSAGE" = "لا يمكن مزامنة الوقت مع خادمنا.";
+"ERROR_1021_MESSAGE" = "عميل غير صالح.";
+"MENU_CABINET" = "الحساب";
+"DR_FAQ" = "التعليمات";
+"ERROR_1013_MESSAGE" = "قم بإلغاء إعادة التوجيه أو إدخال بطاقة SIM محلية لإجراء مكالمات.";
+"PAYMENT_RECEIVED_TITLE" = "شكرًا!";
+"INS_LOCATION_SERVICES_TITLE" = "فعل خدمات تحديد الموقع";
+"NO_CAMERA_ACCESS_TITLE" = "لا يمكن الوصول إلى الكاميرا. كيف يمكننا المسح؟";
+"ERROR_1_TITLE" = "المستخدم ليس موجود";
+"DR_TUTORIAL_RECEIVE_CALLS" = "أنت تتلقى حاليًا مكالمات عبر Wi-Fi وتتجنب رسوم التجوال.";
+"ALL" = "الجميع";
+"ERROR_1050_TITLE" = "انتباه!";
+"INS_OPEN_SETTINGS" = "افتح إعدادات iPhone.";
+"DIALER_SUGGEST_TYPE_MESSAGE" = "نقترح عليك إجراء مكالمة منتظمة في Roamer";
+"DR_TUTORIAL_MAKE_CALLS" = "استخدم Roamer لإجراء مكالمات دولية من رقمك العادي. \
+\
+ حدد المكالمات العادية للحصول على الموثوقية والمكالمات عبر الإنترنت بأقل الأسعار.";
+"ERROR_23_TITLE" = "مشكلة دفع";
+"ERROR_25_MESSAGE" = "لم نتمكن من التحقق من صحة الدفع الخاص بك. تواصل مع support@roamerapp.com";
+"CALL_TRANSFERING" = "نقل";
+"test-key" = "اختبار الكلمات";
